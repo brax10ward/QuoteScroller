@@ -11,7 +11,7 @@ import SwiftUI
 struct Quote_ScrollerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QuotesScrollerView()
         }
     }
 }
